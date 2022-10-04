@@ -1,0 +1,5 @@
+Hello contributor,
+
+You can find 10 different coding exercises under the issues section of this repository. So, pick a language, create a folder under your name inside that language folder, and then provide your solution to the selected exercise in it. 
+
+Have fun coding!
