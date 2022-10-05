@@ -1,0 +1,15 @@
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\bin\Debug\net6.0\AreaOfTrapezoid.exe
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\bin\Debug\net6.0\AreaOfTrapezoid.deps.json
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\bin\Debug\net6.0\AreaOfTrapezoid.runtimeconfig.json
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\bin\Debug\net6.0\AreaOfTrapezoid.dll
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\bin\Debug\net6.0\AreaOfTrapezoid.pdb
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\obj\Debug\net6.0\AreaOfTrapezoid.csproj.AssemblyReference.cache
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\obj\Debug\net6.0\AreaOfTrapezoid.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\obj\Debug\net6.0\AreaOfTrapezoid.AssemblyInfoInputs.cache
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\obj\Debug\net6.0\AreaOfTrapezoid.AssemblyInfo.cs
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\obj\Debug\net6.0\AreaOfTrapezoid.csproj.CoreCompileInputs.cache
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\obj\Debug\net6.0\AreaOfTrapezoid.dll
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\obj\Debug\net6.0\refint\AreaOfTrapezoid.dll
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\obj\Debug\net6.0\AreaOfTrapezoid.pdb
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\obj\Debug\net6.0\AreaOfTrapezoid.genruntimeconfig.cache
+E:\Project\Hacktoberfest 2022\Hacktoberfest_2022\C#\Ishan-09\AreaOfTrapezoid\AreaOfTrapezoid\obj\Debug\net6.0\ref\AreaOfTrapezoid.dll
