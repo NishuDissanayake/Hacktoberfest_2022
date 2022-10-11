@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EzWJfr3nQco3z/vVCmfrAceTgBFIznFUjOu5krEujKwl6q3Qw6rkBSNwo0uXR6YqnjPKIXY2gqKM4WjREJ1Cnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mahima\\source\\repos\\ReverseArray\\ReverseArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahima\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
