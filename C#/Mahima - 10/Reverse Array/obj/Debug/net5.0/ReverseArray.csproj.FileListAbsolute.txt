@@ -1,0 +1,16 @@
+C:\Users\Mahima\source\repos\ReverseArray\obj\Debug\net5.0\ReverseArray.csproj.AssemblyReference.cache
+C:\Users\Mahima\source\repos\ReverseArray\obj\Debug\net5.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahima\source\repos\ReverseArray\obj\Debug\net5.0\ReverseArray.AssemblyInfoInputs.cache
+C:\Users\Mahima\source\repos\ReverseArray\obj\Debug\net5.0\ReverseArray.AssemblyInfo.cs
+C:\Users\Mahima\source\repos\ReverseArray\obj\Debug\net5.0\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\Mahima\source\repos\ReverseArray\bin\Debug\net5.0\ReverseArray.exe
+C:\Users\Mahima\source\repos\ReverseArray\bin\Debug\net5.0\ReverseArray.deps.json
+C:\Users\Mahima\source\repos\ReverseArray\bin\Debug\net5.0\ReverseArray.runtimeconfig.json
+C:\Users\Mahima\source\repos\ReverseArray\bin\Debug\net5.0\ReverseArray.runtimeconfig.dev.json
+C:\Users\Mahima\source\repos\ReverseArray\bin\Debug\net5.0\ReverseArray.dll
+C:\Users\Mahima\source\repos\ReverseArray\bin\Debug\net5.0\ref\ReverseArray.dll
+C:\Users\Mahima\source\repos\ReverseArray\bin\Debug\net5.0\ReverseArray.pdb
+C:\Users\Mahima\source\repos\ReverseArray\obj\Debug\net5.0\ReverseArray.dll
+C:\Users\Mahima\source\repos\ReverseArray\obj\Debug\net5.0\ref\ReverseArray.dll
+C:\Users\Mahima\source\repos\ReverseArray\obj\Debug\net5.0\ReverseArray.pdb
+C:\Users\Mahima\source\repos\ReverseArray\obj\Debug\net5.0\ReverseArray.genruntimeconfig.cache
